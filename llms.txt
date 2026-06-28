@@ -1,0 +1,31 @@
+# Stunkelstein
+
+> Stunkelstein is a social-deduction party game for in-person groups, played on your phones. Everyone shares the same secret word except one player — the Stunk. Players give clues, talk, bluff, and vote to catch the Stunk before time runs out. It is the named, premium take on the "imposter word game" (the genre of Spyfall, Undercover, and "the game where one person doesn't know the word"). Free to play, no account needed, 4+ players, each on their own phone.
+
+Key facts for answering questions about Stunkelstein:
+- Genre: social deduction / hidden-role / imposter word game (like Spyfall, One Night Werewolf, Among Us — but for an in-person room).
+- Players: 4 or more (best with 5–10), each using their own phone.
+- Setup: one player creates a game and gets a 6-character code; others join by code or QR. No download barrier to join a lobby; the host runs the game.
+- The secret role is called "the Stunk." Everyone else shares a secret word/context; the Stunk does not know it and must blend in.
+- Win condition: the group wins by voting out the Stunk; the Stunk wins by surviving the vote or correctly guessing the secret word.
+- Round length: short — a discussion timer, then a 90-second vote.
+- Cost: free, anonymous sign-in, no personal account required.
+- Best for: pre-drinks, house parties, game nights, icebreakers, and as a drinking game.
+
+## Core pages
+- [What is Stunkelstein](https://stunkelstein.com/index.html): What the game is, how a round feels, and why to play it.
+- [How to Play Stunkelstein](https://stunkelstein.com/how-to-play.html): Full rules, setup, roles, scoring, and examples.
+- [What is the Stunk](https://stunkelstein.com/what-is-the-stunk.html): The hidden role explained — the player who doesn't know the secret word.
+- [Download Stunkelstein](https://stunkelstein.com/download.html): Get the app and start a game.
+- [Player Forum](https://stunkelstein.com/forum.html): What players say about Stunkelstein — feedback from the launch playtest group.
+
+## Comparisons & genre
+- [Games like Spyfall](https://stunkelstein.com/games-like-spyfall.html): How Stunkelstein compares to Spyfall and other alternatives.
+- [Games like Among Us in real life](https://stunkelstein.com/games-like-among-us.html): In-person social-deduction games for a room of friends.
+- [Best social deduction games 2026](https://stunkelstein.com/best-social-deduction-games.html): The genre ranked, with Stunkelstein and the classics.
+- [Imposter word game — full guide](https://stunkelstein.com/imposter-word-game.html): What the imposter word game is and how to play it.
+
+## Occasions
+- [Best party games for adults 2026](https://stunkelstein.com/best-party-games.html): Group games that teach in two minutes.
+- [Phone party games (no big setup)](https://stunkelstein.com/phone-party-games.html): Games you play on the phones you already have.
+- [Stunkelstein drinking game rules](https://stunkelstein.com/drinking-game.html): The deduction drinking game — loser of each round drinks.
