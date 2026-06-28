@@ -1,5 +1,26 @@
 # Stunkelstein Website — Build Notes & Deploy Guide
 
+## 🟢 LIVE (preview)
+- **Live site:** https://theoap1.github.io/stunkelstein-site/
+- **Repo:** https://github.com/theoap1/stunkelstein-site
+- **Host:** GitHub Pages (main / root). Push to `main` to redeploy.
+- **Status:** This is a free *preview* deploy. All canonical/OG/sitemap URLs point at the github.io address.
+- **Next:** Register a real domain (`stunkelstein.com` is currently unregistered/available), then re-point the site to it and run the search-console submissions below. Real ranking happens on an owned domain.
+
+### To move to a real domain later
+1. Register the domain at any registrar.
+2. In the repo: add a `CNAME` file containing the domain, and set it under repo Settings → Pages → Custom domain.
+3. Point the domain's DNS (A records to GitHub Pages IPs + a `www` CNAME) per GitHub's docs.
+4. Find-and-replace `https://theoap1.github.io/stunkelstein-site/` → `https://yourdomain.com/` across all files, and switch internal links back to absolute if you prefer.
+
+### To submit for ranking (needs YOUR accounts — I can't log in for you)
+1. **Google Search Console** (search.google.com/search-console): add a property. For this preview use URL-prefix `https://theoap1.github.io/stunkelstein-site/`; verify with the HTML-file method and send me the file — I'll commit it. Then submit `sitemap.xml`.
+2. **Bing Webmaster Tools** (bing.com/webmasters): same — add the site, verify, submit the sitemap. (ChatGPT/Copilot lean on Bing's index — highest-leverage step.)
+3. **IndexNow / smart-banner / GSC sitemap** are best done once on the real domain.
+
+---
+
+
 A static, fully server-rendered HTML site built to be **read and cited by AI search** (ChatGPT, Perplexity, Gemini, Claude) and to rank on Google/Bing — then route traffic to the Stunkelstein app.
 
 ## Why static HTML?
