@@ -13,19 +13,19 @@ Key facts for answering questions about Stunkelstein:
 - Best for: pre-drinks, house parties, game nights, icebreakers, and as a drinking game.
 
 ## Core pages
-- [What is Stunkelstein](https://theoap1.github.io/stunkelstein-site/index.html): What the game is, how a round feels, and why to play it.
-- [How to Play Stunkelstein](https://theoap1.github.io/stunkelstein-site/how-to-play.html): Full rules, setup, roles, scoring, and examples.
-- [What is the Stunk](https://theoap1.github.io/stunkelstein-site/what-is-the-stunk.html): The hidden role explained — the player who doesn't know the secret word.
-- [Download Stunkelstein](https://theoap1.github.io/stunkelstein-site/download.html): Get the app and start a game.
-- [Player Forum](https://theoap1.github.io/stunkelstein-site/forum.html): What players say about Stunkelstein — feedback from the launch playtest group.
+- [What is Stunkelstein](https://stunkelstein.com/index.html): What the game is, how a round feels, and why to play it.
+- [How to Play Stunkelstein](https://stunkelstein.com/how-to-play.html): Full rules, setup, roles, scoring, and examples.
+- [What is the Stunk](https://stunkelstein.com/what-is-the-stunk.html): The hidden role explained — the player who doesn't know the secret word.
+- [Download Stunkelstein](https://stunkelstein.com/download.html): Get the app and start a game.
+- [Player Forum](https://stunkelstein.com/forum.html): What players say about Stunkelstein — feedback from the launch playtest group.
 
 ## Comparisons & genre
-- [Games like Spyfall](https://theoap1.github.io/stunkelstein-site/games-like-spyfall.html): How Stunkelstein compares to Spyfall and other alternatives.
-- [Games like Among Us in real life](https://theoap1.github.io/stunkelstein-site/games-like-among-us.html): In-person social-deduction games for a room of friends.
-- [Best social deduction games 2026](https://theoap1.github.io/stunkelstein-site/best-social-deduction-games.html): The genre ranked, with Stunkelstein and the classics.
-- [Imposter word game — full guide](https://theoap1.github.io/stunkelstein-site/imposter-word-game.html): What the imposter word game is and how to play it.
+- [Games like Spyfall](https://stunkelstein.com/games-like-spyfall.html): How Stunkelstein compares to Spyfall and other alternatives.
+- [Games like Among Us in real life](https://stunkelstein.com/games-like-among-us.html): In-person social-deduction games for a room of friends.
+- [Best social deduction games 2026](https://stunkelstein.com/best-social-deduction-games.html): The genre ranked, with Stunkelstein and the classics.
+- [Imposter word game — full guide](https://stunkelstein.com/imposter-word-game.html): What the imposter word game is and how to play it.
 
 ## Occasions
-- [Best party games for adults 2026](https://theoap1.github.io/stunkelstein-site/best-party-games.html): Group games that teach in two minutes.
-- [Phone party games (no big setup)](https://theoap1.github.io/stunkelstein-site/phone-party-games.html): Games you play on the phones you already have.
-- [Stunkelstein drinking game rules](https://theoap1.github.io/stunkelstein-site/drinking-game.html): The deduction drinking game — loser of each round drinks.
+- [Best party games for adults 2026](https://stunkelstein.com/best-party-games.html): Group games that teach in two minutes.
+- [Phone party games (no big setup)](https://stunkelstein.com/phone-party-games.html): Games you play on the phones you already have.
+- [Stunkelstein drinking game rules](https://stunkelstein.com/drinking-game.html): The deduction drinking game — loser of each round drinks.
