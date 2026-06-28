@@ -51,4 +51,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://stunkelstein.com/sitemap.xml
+Sitemap: https://theoap1.github.io/stunkelstein-site/sitemap.xml
